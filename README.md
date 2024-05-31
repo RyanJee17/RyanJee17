@@ -1,6 +1,6 @@
 ## Heyy 👋
 ### Qui suis-je ?
-Je m'appelle Ryan et je suis actuellement en étude en BUT Informatique.
+Je m'appelle Ryan et je suis actuellement en étude en BUT Informatique option Réalisation d’applications : Conception, Développement, Validation.
 Je trouve le monde de l'informatique assez vaste pour que tout le monde y trouve son compte.
 Je m'oriente plus de coté développement web, sur tout ce qui va être frontend ainsi que la réalisation de maquette et de design pour ces sites.
 
