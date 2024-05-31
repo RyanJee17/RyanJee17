@@ -1,8 +1,8 @@
 ## Heyy 👋
-### Qui suis-je
+### Qui suis-je ?
 Je m'appelle Ryan et je suis actuellement en étude en BUT Informatique.
-Je trouve le monde de l'informatique assez vate pour que tout le monde y trouve son compte.
-Je m'oriente plus de coté développement web, sur tout ce qui va être frontend ainsi que réalisation de maquette et de design pour ces sites.
+Je trouve le monde de l'informatique assez vaste pour que tout le monde y trouve son compte.
+Je m'oriente plus de coté développement web, sur tout ce qui va être frontend ainsi que la réalisation de maquette et de design pour ces sites.
 
 ### Ce que je sais faire
 Je suis à l'aise avec les outils et les langages de développement web
@@ -11,7 +11,7 @@ Je suis à l'aise avec les outils et les langages de développement web
 - JavaScript / Typescript
 - PHP
 - Gestion de base de données
-- Hebergement (en cours d'acquisition)
+- Hébergement (en cours d'acquisition)
 - Framework React (en cours d'acquisition)
 
 Je manie aussi aisément les outils de design et de graphisme
@@ -19,7 +19,7 @@ Je manie aussi aisément les outils de design et de graphisme
 - Canva
 - Suite Adobe
 
-J'utilise énormément de logiciel pour m'aider à réaliser mes tâches et m'organiser
+J'utilise énormément de logiciel pour m'aider à réaliser mes tâches et à m'organiser
 - Notion
 - Milanote
 - Trello
