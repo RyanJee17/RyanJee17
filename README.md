@@ -11,13 +11,13 @@ Je suis à l'aise avec les outils et les langages de développement web
 - JavaScript / Typescript
 - PHP
 - Gestion de base de données
-- Hébergement (en cours d'acquisition)
-- Framework React (en cours d'acquisition)
+- Hébergement (_en cours d'acquisition_)
+- Framework React (_en cours d'acquisition_)
 
 Je manie aussi aisément les outils de design et de graphisme
 - Figma
 - Canva
-- Suite Adobe
+- Suite Adobe (_en cours d'acquisition_)
 
 J'utilise énormément de logiciel pour m'aider à réaliser mes tâches et à m'organiser
 - Notion
